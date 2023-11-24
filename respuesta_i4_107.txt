@@ -15,4 +15,20 @@ COLOR: BLUE
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 El favicon que quedo en MASTER es el de BETA
 
+E- ¿Algún integrante tuvo problemas al hacer el push?
+-Si, todos menos ALFA.
+
+F- ¿Qué problemas surgieron?
+primero pedia hacer un pull, y luego resolver un merge conflict.
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+Lo resolvimos en el text editor y luego lo pusheamos con todos los nombres.Sino, se podria subir un solo nombre y reemplazar el anterior.
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+Se fuerza el push y se sobreescribe el push del anterior.
+
+I-Tenes que resolver el merge conflict en un text editor y hacer click en "accept combination" y luego hacer el merge con todos los p tags.
+
+
 
