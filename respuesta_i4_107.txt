@@ -1,0 +1,18 @@
+Participantes:
+Martin Simone
+Behrens Tomas
+Matias Altamira
+
+A- ¿Qué color de fondo tiene su página en el TESTING?
+COLOR: BLUE
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO?
+COLOR: YELLOW
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+COLOR: BLUE
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+El favicon que quedo en MASTER es el de BETA
+
+
